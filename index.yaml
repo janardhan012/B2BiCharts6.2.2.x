@@ -5,7 +5,7 @@ entries:
       charts.openshift.io/name: IBM Sterling B2B Integrator
     apiVersion: v2
     appVersion: 6.2.0.0
-    created: "2023-06-24T01:25:11.829102394+05:30"
+    created: "2023-06-27T17:20:47.577296915+05:30"
     dependencies:
     - alias: sch
       name: ibm-sch
@@ -23,10 +23,10 @@ entries:
       companies to reduce costs by consolidating EDI and non-EDI any-to-any transmissions
       on a single B2B platform and helps automate B2B processes across enterprises,
       while providing governance and visibility over those processes. Documentation
-      For additional details regarding install parameters check https://www.ibm.com/docs/en/b2b-integrator/6.1.2?topic=integrator-installing-sterling-b2b-using-certified-container.
-      License By installing this product you accept the license terms http://www14.software.ibm.com/cgi-bin/weblap/lap.pl?li_formnum=L-MZIA-CCSL2W&title=IBM%20Sterling%20B2B%20Integrator%20Certified%20Container%20V6.1.2"
-    digest: a9a5f1d11411338b61994756a4a83bcf58335e3290b5a631c2aa04b0c5b095c3
-    home: https://www.ibm.com/docs/en/b2b-integrator/6.1.2
+      For additional details regarding install parameters check https://www.ibm.com/docs/en/b2b-integrator/6.2.0?topic=integrator-installing-sterling-b2b-using-certified-container.
+      License By installing this product you accept the license terms http://www14.software.ibm.com/cgi-bin/weblap/lap.pl?li_formnum=L-MZIA-CCSL2W&title=IBM%20Sterling%20B2B%20Integrator%20Certified%20Container%20V6.2.0"
+    digest: 302dc5b92173de0fe90b2bc6f6f36b24af552f1180022670890c2ee8bc019d34
+    home: https://www.ibm.com/docs/en/b2b-integrator/6.2.0
     icon: https://raw.githubusercontent.com/IBM/charts/master/logo/ibm-b2bi-icon.png
     keywords:
     - b2bi
@@ -46,14 +46,14 @@ entries:
     name: ibm-b2bi-prod
     type: application
     urls:
-    - ibm-b2bi-prod-2.1.3.tgz
-    version: 2.1.3
+    - ibm-b2bi-prod-3.0.0.tgz
+    version: 3.0.0
   ibm-sfg-prod:
   - annotations:
       charts.openshift.io/name: IBM Sterling B2B Integrator
     apiVersion: v2
     appVersion: 6.2.0.0
-    created: "2023-06-24T01:25:11.86382349+05:30"
+    created: "2023-06-27T17:20:47.620385493+05:30"
     dependencies:
     - alias: sch
       name: ibm-sch
@@ -71,10 +71,10 @@ entries:
       companies to reduce costs by consolidating EDI and non-EDI any-to-any transmissions
       on a single B2B platform and helps automate B2B processes across enterprises,
       while providing governance and visibility over those processes. Documentation
-      For additional details regarding install parameters check https://www.ibm.com/docs/en/b2b-integrator/6.1.2?topic=integrator-installing-sterling-b2b-using-certified-container.
-      License By installing this product you accept the license terms http://www14.software.ibm.com/cgi-bin/weblap/lap.pl?li_formnum=L-MZIA-CCSL2W&title=IBM%20Sterling%20B2B%20Integrator%20Certified%20Container%20V6.1.2"
-    digest: f2b21f7b4a80632da73254e9bfa2c9284835d23c5e790928059b1051f845de89
-    home: https://www.ibm.com/docs/en/b2b-integrator/6.1.2
+      For additional details regarding install parameters check https://www.ibm.com/docs/en/b2b-integrator/6.2.0?topic=integrator-installing-sterling-b2b-using-certified-container.
+      License By installing this product you accept the license terms http://www14.software.ibm.com/cgi-bin/weblap/lap.pl?li_formnum=L-MZIA-CCSL2W&title=IBM%20Sterling%20B2B%20Integrator%20Certified%20Container%20V6.2.0"
+    digest: 5f78307d1e3ec1aff6454ccdcabbcbc86934d84cfde9036db437d171f5bf5f50
+    home: https://www.ibm.com/docs/en/b2b-integrator/6.2.0
     icon: https://raw.githubusercontent.com/IBM/charts/master/logo/ibm-b2bi-icon.png
     keywords:
     - b2bi
@@ -94,6 +94,6 @@ entries:
     name: ibm-sfg-prod
     type: application
     urls:
-    - ibm-sfg-prod-2.1.3.tgz
-    version: 2.1.3
-generated: "2023-06-24T01:25:11.786241398+05:30"
+    - ibm-sfg-prod-3.0.0.tgz
+    version: 3.0.0
+generated: "2023-06-27T17:20:47.542349076+05:30"
