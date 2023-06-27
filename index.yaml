@@ -5,7 +5,7 @@ entries:
       charts.openshift.io/name: IBM Sterling B2B Integrator
     apiVersion: v2
     appVersion: 6.2.0.0
-    created: "2023-06-27T17:20:47.577296915+05:30"
+    created: "2023-06-27T22:19:16.002800034+05:30"
     dependencies:
     - alias: sch
       name: ibm-sch
@@ -25,7 +25,7 @@ entries:
       while providing governance and visibility over those processes. Documentation
       For additional details regarding install parameters check https://www.ibm.com/docs/en/b2b-integrator/6.2.0?topic=integrator-installing-sterling-b2b-using-certified-container.
       License By installing this product you accept the license terms http://www14.software.ibm.com/cgi-bin/weblap/lap.pl?li_formnum=L-MZIA-CCSL2W&title=IBM%20Sterling%20B2B%20Integrator%20Certified%20Container%20V6.2.0"
-    digest: 302dc5b92173de0fe90b2bc6f6f36b24af552f1180022670890c2ee8bc019d34
+    digest: d20a36d0a9bc502de10731b2f4a7b12b5a3c05e3f9537d8f7f59bf4671f4aca9
     home: https://www.ibm.com/docs/en/b2b-integrator/6.2.0
     icon: https://raw.githubusercontent.com/IBM/charts/master/logo/ibm-b2bi-icon.png
     keywords:
@@ -53,7 +53,7 @@ entries:
       charts.openshift.io/name: IBM Sterling B2B Integrator
     apiVersion: v2
     appVersion: 6.2.0.0
-    created: "2023-06-27T17:20:47.620385493+05:30"
+    created: "2023-06-27T22:19:16.042334809+05:30"
     dependencies:
     - alias: sch
       name: ibm-sch
@@ -73,7 +73,7 @@ entries:
       while providing governance and visibility over those processes. Documentation
       For additional details regarding install parameters check https://www.ibm.com/docs/en/b2b-integrator/6.2.0?topic=integrator-installing-sterling-b2b-using-certified-container.
       License By installing this product you accept the license terms http://www14.software.ibm.com/cgi-bin/weblap/lap.pl?li_formnum=L-MZIA-CCSL2W&title=IBM%20Sterling%20B2B%20Integrator%20Certified%20Container%20V6.2.0"
-    digest: 5f78307d1e3ec1aff6454ccdcabbcbc86934d84cfde9036db437d171f5bf5f50
+    digest: 2abb98a1f12e4e61e59df9c900eda9379487d1174bf679089d2e539fb04aef5d
     home: https://www.ibm.com/docs/en/b2b-integrator/6.2.0
     icon: https://raw.githubusercontent.com/IBM/charts/master/logo/ibm-b2bi-icon.png
     keywords:
@@ -96,4 +96,4 @@ entries:
     urls:
     - ibm-sfg-prod-3.0.0.tgz
     version: 3.0.0
-generated: "2023-06-27T17:20:47.542349076+05:30"
+generated: "2023-06-27T22:19:15.965484749+05:30"
