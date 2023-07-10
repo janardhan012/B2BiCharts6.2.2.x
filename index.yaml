@@ -4,18 +4,13 @@ entries:
   - annotations:
       charts.openshift.io/name: IBM Sterling B2B Integrator
     apiVersion: v2
-    appVersion: 6.2.0.0
-    created: "2023-07-06T19:59:44.206201297+05:30"
+    appVersion: 6.1.2.3
+    created: "2023-07-10T19:42:09.613281063+05:30"
     dependencies:
     - alias: sch
       name: ibm-sch
       repository: '@sch'
       version: 1.2.16
-    - alias: documentService
-      condition: documentService.enabled
-      name: ibm-document-service-prod
-      repository: ""
-      version: 1.0.0
     description: IBM Sterling B2B Integrator helps companies integrate complex B2B
       EDI processes with their partner communities. Organizations get a single, flexible
       B2B platform that supports most communication protocols, helps secure your B2B
@@ -23,10 +18,10 @@ entries:
       companies to reduce costs by consolidating EDI and non-EDI any-to-any transmissions
       on a single B2B platform and helps automate B2B processes across enterprises,
       while providing governance and visibility over those processes. Documentation
-      For additional details regarding install parameters check https://www.ibm.com/docs/en/b2b-integrator/6.2.0?topic=integrator-installing-sterling-b2b-using-certified-container.
-      License By installing this product you accept the license terms http://www14.software.ibm.com/cgi-bin/weblap/lap.pl?li_formnum=L-MZIA-CCSL2W&title=IBM%20Sterling%20B2B%20Integrator%20Certified%20Container%20V6.2.0"
-    digest: b13986d018f21630f018818daf817b292bb8817cfe09233dec78a02f30741503
-    home: https://www.ibm.com/docs/en/b2b-integrator/6.2.0
+      For additional details regarding install parameters check https://www.ibm.com/docs/en/b2b-integrator/6.1.2?topic=integrator-installing-sterling-b2b-using-certified-container.
+      License By installing this product you accept the license terms http://www14.software.ibm.com/cgi-bin/weblap/lap.pl?li_formnum=L-MZIA-CCSL2W&title=IBM%20Sterling%20B2B%20Integrator%20Certified%20Container%20V6.1.2"
+    digest: 6cbb4be8f1b5c53d39ab182f664fcd0ad5f895d9cf0c1111369534c3f83fcdf2
+    home: https://www.ibm.com/docs/en/b2b-integrator/6.1.2
     icon: https://raw.githubusercontent.com/IBM/charts/master/logo/ibm-b2bi-icon.png
     keywords:
     - b2bi
@@ -46,24 +41,19 @@ entries:
     name: ibm-b2bi-prod
     type: application
     urls:
-    - ibm-b2bi-prod-3.0.0.tgz
-    version: 3.0.0
+    - ibm-b2bi-prod-2.1.4.tgz
+    version: 2.1.4
   ibm-sfg-prod:
   - annotations:
       charts.openshift.io/name: IBM Sterling B2B Integrator
     apiVersion: v2
-    appVersion: 6.2.0.0
-    created: "2023-07-06T19:59:44.256900009+05:30"
+    appVersion: 6.1.2.3
+    created: "2023-07-10T19:42:09.641565712+05:30"
     dependencies:
     - alias: sch
       name: ibm-sch
       repository: '@sch'
       version: 1.2.16
-    - alias: documentService
-      condition: documentService.enabled
-      name: ibm-document-service-prod
-      repository: ""
-      version: 1.0.0
     description: IBM Sterling B2B Integrator helps companies integrate complex B2B
       EDI processes with their partner communities. Organizations get a single, flexible
       B2B platform that supports most communication protocols, helps secure your B2B
@@ -71,10 +61,10 @@ entries:
       companies to reduce costs by consolidating EDI and non-EDI any-to-any transmissions
       on a single B2B platform and helps automate B2B processes across enterprises,
       while providing governance and visibility over those processes. Documentation
-      For additional details regarding install parameters check https://www.ibm.com/docs/en/b2b-integrator/6.2.0?topic=integrator-installing-sterling-b2b-using-certified-container.
-      License By installing this product you accept the license terms http://www14.software.ibm.com/cgi-bin/weblap/lap.pl?li_formnum=L-MZIA-CCSL2W&title=IBM%20Sterling%20B2B%20Integrator%20Certified%20Container%20V6.2.0"
-    digest: 5cce8a9331b74d63980e7fb84bd83be5c1e946ad3433aabddd4ce494b49c2c5e
-    home: https://www.ibm.com/docs/en/b2b-integrator/6.2.0
+      For additional details regarding install parameters check https://www.ibm.com/docs/en/b2b-integrator/6.1.2?topic=integrator-installing-sterling-b2b-using-certified-container.
+      License By installing this product you accept the license terms http://www14.software.ibm.com/cgi-bin/weblap/lap.pl?li_formnum=L-MZIA-CCSL2W&title=IBM%20Sterling%20B2B%20Integrator%20Certified%20Container%20V6.1.2"
+    digest: 0c7371aace245bea7fcae0cfe8234e1dfef0676b67d7a82d900608b27f3361b8
+    home: https://www.ibm.com/docs/en/b2b-integrator/6.1.2
     icon: https://raw.githubusercontent.com/IBM/charts/master/logo/ibm-b2bi-icon.png
     keywords:
     - b2bi
@@ -94,6 +84,6 @@ entries:
     name: ibm-sfg-prod
     type: application
     urls:
-    - ibm-sfg-prod-3.0.0.tgz
-    version: 3.0.0
-generated: "2023-07-06T19:59:44.159132623+05:30"
+    - ibm-sfg-prod-2.1.4.tgz
+    version: 2.1.4
+generated: "2023-07-10T19:42:09.582396063+05:30"
