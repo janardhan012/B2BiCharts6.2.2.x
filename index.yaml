@@ -4,8 +4,8 @@ entries:
   - annotations:
       charts.openshift.io/name: IBM Sterling B2B Integrator
     apiVersion: v2
-    appVersion: 6.2.0.1
-    created: "2023-11-26T03:35:18.259903946+05:30"
+    appVersion: 6.2.0.0_1
+    created: "2023-12-04T03:54:52.006381744+05:30"
     dependencies:
     - alias: sch
       name: ibm-sch
@@ -25,7 +25,7 @@ entries:
       while providing governance and visibility over those processes. Documentation
       For additional details regarding install parameters check https://www.ibm.com/docs/en/b2b-integrator/6.2.0?topic=integrator-installing-sterling-b2b-using-certified-container.
       License By installing this product you accept the license terms https://ibm.biz/B2Bi_62
-    digest: 231a05753294a401e051b4d72bb455c1e34cb2f074946ddf499135dbe9ac17b8
+    digest: c7832838c4c552e70804f2da84f3036976791dfe466f02c0c90e2eacc54f979a
     home: https://www.ibm.com/docs/en/b2b-integrator/6.2.0
     icon: https://raw.githubusercontent.com/IBM/charts/master/logo/ibm-b2bi-icon.png
     keywords:
@@ -52,7 +52,7 @@ entries:
       charts.openshift.io/name: IBM Sterling B2B Integrator
     apiVersion: v2
     appVersion: 6.2.0.1
-    created: "2023-11-26T03:35:18.225644448+05:30"
+    created: "2023-12-04T03:54:51.970199642+05:30"
     dependencies:
     - alias: sch
       name: ibm-sch
@@ -99,7 +99,7 @@ entries:
       charts.openshift.io/name: IBM Sterling B2B Integrator
     apiVersion: v2
     appVersion: 6.1.2.3
-    created: "2023-11-26T03:35:18.189798424+05:30"
+    created: "2023-12-04T03:54:51.928852784+05:30"
     dependencies:
     - alias: sch
       name: ibm-sch
@@ -141,8 +141,8 @@ entries:
   - annotations:
       charts.openshift.io/name: IBM Sterling B2B Integrator
     apiVersion: v2
-    appVersion: 6.2.0.1
-    created: "2023-11-26T03:35:18.365685296+05:30"
+    appVersion: 6.2.0.0_1
+    created: "2023-12-04T03:54:52.10778036+05:30"
     dependencies:
     - alias: sch
       name: ibm-sch
@@ -162,7 +162,7 @@ entries:
       while providing governance and visibility over those processes. Documentation
       For additional details regarding install parameters check https://www.ibm.com/docs/en/b2b-integrator/6.2.0?topic=integrator-installing-sterling-b2b-using-certified-container.
       License By installing this product you accept the license terms https://ibm.biz/B2Bi_62
-    digest: d285b828e4cd9b3417e3ac7dded4831144182d82c42aa2a5d607200c68c52ee2
+    digest: 6c3eeebda30b76f492df231898df85398fdea7e98e1f82553ec76b4c13afe7e4
     home: https://www.ibm.com/docs/en/b2b-integrator/6.2.0
     icon: https://raw.githubusercontent.com/IBM/charts/master/logo/ibm-b2bi-icon.png
     keywords:
@@ -189,7 +189,7 @@ entries:
       charts.openshift.io/name: IBM Sterling B2B Integrator
     apiVersion: v2
     appVersion: 6.2.0.1
-    created: "2023-11-26T03:35:18.324824803+05:30"
+    created: "2023-12-04T03:54:52.075083621+05:30"
     dependencies:
     - alias: sch
       name: ibm-sch
@@ -236,7 +236,7 @@ entries:
       charts.openshift.io/name: IBM Sterling B2B Integrator
     apiVersion: v2
     appVersion: 6.1.2.3
-    created: "2023-11-26T03:35:18.288629889+05:30"
+    created: "2023-12-04T03:54:52.037332797+05:30"
     dependencies:
     - alias: sch
       name: ibm-sch
@@ -274,4 +274,4 @@ entries:
     urls:
     - ibm-sfg-prod-2.1.4.tgz
     version: 2.1.4
-generated: "2023-11-26T03:35:18.157082329+05:30"
+generated: "2023-12-04T03:54:51.887875254+05:30"
