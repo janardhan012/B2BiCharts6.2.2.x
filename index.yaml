@@ -5,7 +5,7 @@ entries:
       charts.openshift.io/name: IBM Sterling B2B Integrator
     apiVersion: v2
     appVersion: 6.2.0.1
-    created: "2023-12-13T23:13:17.270367631+05:30"
+    created: "2023-12-15T04:54:02.280652277+05:30"
     dependencies:
     - alias: sch
       name: ibm-sch
@@ -52,7 +52,7 @@ entries:
       charts.openshift.io/name: IBM Sterling B2B Integrator
     apiVersion: v2
     appVersion: 6.2.0.0_1
-    created: "2023-12-13T23:13:17.238507577+05:30"
+    created: "2023-12-15T04:54:02.236698726+05:30"
     dependencies:
     - alias: sch
       name: ibm-sch
@@ -99,7 +99,7 @@ entries:
       charts.openshift.io/name: IBM Sterling B2B Integrator
     apiVersion: v2
     appVersion: 6.2.0.1
-    created: "2023-12-13T23:13:17.20438337+05:30"
+    created: "2023-12-15T04:54:02.201976695+05:30"
     dependencies:
     - alias: sch
       name: ibm-sch
@@ -145,8 +145,8 @@ entries:
   - annotations:
       charts.openshift.io/name: IBM Sterling B2B Integrator
     apiVersion: v2
-    appVersion: 6.1.2.3
-    created: "2023-12-13T23:13:17.169623158+05:30"
+    appVersion: 6.1.2.4
+    created: "2023-12-15T04:54:02.158804081+05:30"
     dependencies:
     - alias: sch
       name: ibm-sch
@@ -161,7 +161,7 @@ entries:
       while providing governance and visibility over those processes. Documentation
       For additional details regarding install parameters check https://www.ibm.com/docs/en/b2b-integrator/6.1.2?topic=integrator-installing-sterling-b2b-using-certified-container.
       License By installing this product you accept the license terms http://www14.software.ibm.com/cgi-bin/weblap/lap.pl?li_formnum=L-MZIA-CCSL2W&title=IBM%20Sterling%20B2B%20Integrator%20Certified%20Container%20V6.1.2"
-    digest: 6cbb4be8f1b5c53d39ab182f664fcd0ad5f895d9cf0c1111369534c3f83fcdf2
+    digest: 01925e175f7452aa07e3c79c90276423e109846ced5cb5dd5c4e6d32a5b0b344
     home: https://www.ibm.com/docs/en/b2b-integrator/6.1.2
     icon: https://raw.githubusercontent.com/IBM/charts/master/logo/ibm-b2bi-icon.png
     keywords:
@@ -189,7 +189,7 @@ entries:
       charts.openshift.io/name: IBM Sterling B2B Integrator
     apiVersion: v2
     appVersion: 6.2.0.1
-    created: "2023-12-13T23:13:17.397241663+05:30"
+    created: "2023-12-15T04:54:02.42526481+05:30"
     dependencies:
     - alias: sch
       name: ibm-sch
@@ -236,7 +236,7 @@ entries:
       charts.openshift.io/name: IBM Sterling B2B Integrator
     apiVersion: v2
     appVersion: 6.2.0.0_1
-    created: "2023-12-13T23:13:17.36351228+05:30"
+    created: "2023-12-15T04:54:02.390050877+05:30"
     dependencies:
     - alias: sch
       name: ibm-sch
@@ -283,7 +283,7 @@ entries:
       charts.openshift.io/name: IBM Sterling B2B Integrator
     apiVersion: v2
     appVersion: 6.2.0.1
-    created: "2023-12-13T23:13:17.330516702+05:30"
+    created: "2023-12-15T04:54:02.357765889+05:30"
     dependencies:
     - alias: sch
       name: ibm-sch
@@ -329,8 +329,8 @@ entries:
   - annotations:
       charts.openshift.io/name: IBM Sterling B2B Integrator
     apiVersion: v2
-    appVersion: 6.1.2.3
-    created: "2023-12-13T23:13:17.298556826+05:30"
+    appVersion: 6.1.2.4
+    created: "2023-12-15T04:54:02.32552875+05:30"
     dependencies:
     - alias: sch
       name: ibm-sch
@@ -345,7 +345,7 @@ entries:
       while providing governance and visibility over those processes. Documentation
       For additional details regarding install parameters check https://www.ibm.com/docs/en/b2b-integrator/6.1.2?topic=integrator-installing-sterling-b2b-using-certified-container.
       License By installing this product you accept the license terms http://www14.software.ibm.com/cgi-bin/weblap/lap.pl?li_formnum=L-MZIA-CCSL2W&title=IBM%20Sterling%20B2B%20Integrator%20Certified%20Container%20V6.1.2"
-    digest: 0c7371aace245bea7fcae0cfe8234e1dfef0676b67d7a82d900608b27f3361b8
+    digest: b3afacf04bf78df0b84ef13f5d53d948bd180f47dd9ea23572a8593dacde33da
     home: https://www.ibm.com/docs/en/b2b-integrator/6.1.2
     icon: https://raw.githubusercontent.com/IBM/charts/master/logo/ibm-b2bi-icon.png
     keywords:
@@ -368,4 +368,4 @@ entries:
     urls:
     - ibm-sfg-prod-2.1.4.tgz
     version: 2.1.4
-generated: "2023-12-13T23:13:17.139391061+05:30"
+generated: "2023-12-15T04:54:02.114808271+05:30"
