@@ -5,7 +5,7 @@ entries:
       charts.openshift.io/name: IBM Sterling B2B Integrator
     apiVersion: v2
     appVersion: 6.2.0.1
-    created: "2024-03-19T16:23:26.986045082+05:30"
+    created: "2024-03-20T07:47:54.992598883+05:30"
     dependencies:
     - alias: sch
       name: ibm-sch
@@ -25,7 +25,7 @@ entries:
       while providing governance and visibility over those processes. Documentation
       For additional details regarding install parameters check https://www.ibm.com/docs/en/b2b-integrator/6.2.0?topic=integrator-installing-sterling-b2b-using-certified-container.
       License By installing this product you accept the license terms https://ibm.biz/B2Bi_62
-    digest: 3533823fbe1859a3973ded9143b01289ea3951e5a8cee65371aeea91e6485077
+    digest: d5e890888872b0c5ab0c2f7b7d12784146db6c268817f5d81460172c62677222
     home: https://www.ibm.com/docs/en/b2b-integrator/6.2.0
     icon: https://raw.githubusercontent.com/IBM/charts/master/logo/ibm-b2bi-icon.png
     keywords:
@@ -40,7 +40,7 @@ entries:
     - Automation
     - RHOCP
     - Other
-    kubeVersion: '>=1.24'
+    kubeVersion: '>=1.26'
     maintainers:
     - name: IBM
     name: ibm-b2bi-prod
@@ -53,7 +53,7 @@ entries:
       charts.openshift.io/name: IBM Sterling B2B Integrator
     apiVersion: v2
     appVersion: 6.2.0.1
-    created: "2024-03-19T16:23:27.028587625+05:30"
+    created: "2024-03-20T07:47:55.029872503+05:30"
     dependencies:
     - alias: sch
       name: ibm-sch
@@ -73,7 +73,7 @@ entries:
       while providing governance and visibility over those processes. Documentation
       For additional details regarding install parameters check https://www.ibm.com/docs/en/b2b-integrator/6.2.0?topic=integrator-installing-sterling-b2b-using-certified-container.
       License By installing this product you accept the license terms https://ibm.biz/B2Bi_62
-    digest: fe9cf7d3975f1fb045d9ac2500220ac11b49f375e9cf7eb5439720e296308ccf
+    digest: e1391dd1a7d9f8ab46ed1e42278b5685b685922cdf3d69c6ea5dc2ddeac8d927
     home: https://www.ibm.com/docs/en/b2b-integrator/6.2.0
     icon: https://raw.githubusercontent.com/IBM/charts/master/logo/ibm-b2bi-icon.png
     keywords:
@@ -88,7 +88,7 @@ entries:
     - Automation
     - RHOCP
     - Other
-    kubeVersion: '>=1.24'
+    kubeVersion: '>=1.26'
     maintainers:
     - name: IBM
     name: ibm-sfg-prod
@@ -96,4 +96,4 @@ entries:
     urls:
     - ibm-sfg-prod-3.0.1.tgz
     version: 3.0.1
-generated: "2024-03-19T16:23:26.941442303+05:30"
+generated: "2024-03-20T07:47:54.956464208+05:30"
