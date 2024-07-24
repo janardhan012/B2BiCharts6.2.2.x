@@ -40,7 +40,7 @@ entries:
     - Automation
     - RHOCP
     - Other
-    kubeVersion: '>=1.27'
+    kubeVersion: '>=1.25'
     maintainers:
     - name: IBM
     name: ibm-b2bi-prod
@@ -88,7 +88,7 @@ entries:
     - Automation
     - RHOCP
     - Other
-    kubeVersion: '>=1.27'
+    kubeVersion: '>=1.25'
     maintainers:
     - name: IBM
     name: ibm-sfg-prod
