@@ -5,7 +5,7 @@ entries:
       charts.openshift.io/name: IBM Sterling B2B Integrator
     apiVersion: v2
     appVersion: 6.2.0.3
-    created: "2024-10-13T15:31:55.13378054+05:30"
+    created: "2024-10-15T16:00:25.253029417+05:30"
     dependencies:
     - alias: sch
       name: ibm-sch
@@ -52,7 +52,7 @@ entries:
       charts.openshift.io/name: IBM Sterling B2B Integrator
     apiVersion: v2
     appVersion: 6.2.1.0
-    created: "2024-10-13T15:31:55.098086659+05:30"
+    created: "2024-10-15T16:00:25.218715459+05:30"
     dependencies:
     - alias: sch
       name: ibm-sch
@@ -99,7 +99,7 @@ entries:
       charts.openshift.io/name: IBM Sterling B2B Integrator
     apiVersion: v2
     appVersion: 6.1.2.6
-    created: "2024-10-13T15:31:55.066413049+05:30"
+    created: "2024-10-15T16:00:25.188445507+05:30"
     dependencies:
     - alias: sch
       name: ibm-sch
@@ -114,7 +114,7 @@ entries:
       while providing governance and visibility over those processes. Documentation
       For additional details regarding install parameters check https://www.ibm.com/docs/en/b2b-integrator/6.1.2?topic=integrator-installing-sterling-b2b-using-certified-container.
       License By installing this product you accept the license terms http://www14.software.ibm.com/cgi-bin/weblap/lap.pl?li_formnum=L-MZIA-CCSL2W&title=IBM%20Sterling%20B2B%20Integrator%20Certified%20Container%20V6.1.2"
-    digest: 104d64054b425a9bb7ee426053c5f29b11f734ea06dd837091c6e9510c5b5daf
+    digest: aa2c614ad081751e3236f841e1670fb608f3bc6a32b6a08a3033bb86a8462c62
     home: https://www.ibm.com/docs/en/b2b-integrator/6.1.2
     icon: https://raw.githubusercontent.com/IBM/charts/master/logo/ibm-b2bi-icon.png
     keywords:
@@ -141,7 +141,7 @@ entries:
       charts.openshift.io/name: IBM Sterling B2B Integrator
     apiVersion: v2
     appVersion: 6.1.2.5_1
-    created: "2024-10-13T15:31:55.039681773+05:30"
+    created: "2024-10-15T16:00:25.158939673+05:30"
     dependencies:
     - alias: sch
       name: ibm-sch
@@ -184,7 +184,7 @@ entries:
       charts.openshift.io/name: IBM Sterling B2B Integrator
     apiVersion: v2
     appVersion: 6.2.0.3
-    created: "2024-10-13T15:31:55.250523443+05:30"
+    created: "2024-10-15T16:00:25.366139318+05:30"
     dependencies:
     - alias: sch
       name: ibm-sch
@@ -231,7 +231,7 @@ entries:
       charts.openshift.io/name: IBM Sterling B2B Integrator
     apiVersion: v2
     appVersion: 6.2.1.0
-    created: "2024-10-13T15:31:55.219303727+05:30"
+    created: "2024-10-15T16:00:25.334258261+05:30"
     dependencies:
     - alias: sch
       name: ibm-sch
@@ -278,7 +278,7 @@ entries:
       charts.openshift.io/name: IBM Sterling B2B Integrator
     apiVersion: v2
     appVersion: 6.1.2.6
-    created: "2024-10-13T15:31:55.186724264+05:30"
+    created: "2024-10-15T16:00:25.304244419+05:30"
     dependencies:
     - alias: sch
       name: ibm-sch
@@ -293,7 +293,7 @@ entries:
       while providing governance and visibility over those processes. Documentation
       For additional details regarding install parameters check https://www.ibm.com/docs/en/b2b-integrator/6.1.2?topic=integrator-installing-sterling-b2b-using-certified-container.
       License By installing this product you accept the license terms http://www14.software.ibm.com/cgi-bin/weblap/lap.pl?li_formnum=L-MZIA-CCSL2W&title=IBM%20Sterling%20B2B%20Integrator%20Certified%20Container%20V6.1.2"
-    digest: 3db785ecb0585acce40e097f8c206490c0c6f264354ab03ad1e6289470a04b00
+    digest: 584c00c137cee7b60f2748670e7832549f33864774232862e786040d6cae2305
     home: https://www.ibm.com/docs/en/b2b-integrator/6.1.2
     icon: https://raw.githubusercontent.com/IBM/charts/master/logo/ibm-b2bi-icon.png
     keywords:
@@ -320,7 +320,7 @@ entries:
       charts.openshift.io/name: IBM Sterling B2B Integrator
     apiVersion: v2
     appVersion: 6.1.2.5_1
-    created: "2024-10-13T15:31:55.160679171+05:30"
+    created: "2024-10-15T16:00:25.279233209+05:30"
     dependencies:
     - alias: sch
       name: ibm-sch
@@ -358,4 +358,4 @@ entries:
     urls:
     - ibm-sfg-prod-2.1.7.tgz
     version: 2.1.7
-generated: "2024-10-13T15:31:55.012007419+05:30"
+generated: "2024-10-15T16:00:25.1284374+05:30"
