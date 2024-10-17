@@ -5,7 +5,7 @@ entries:
       charts.openshift.io/name: IBM Sterling B2B Integrator
     apiVersion: v2
     appVersion: 6.2.0.3
-    created: "2024-10-16T16:45:48.335955749+05:30"
+    created: "2024-10-17T18:44:57.725846674+05:30"
     dependencies:
     - alias: sch
       name: ibm-sch
@@ -52,7 +52,7 @@ entries:
       charts.openshift.io/name: IBM Sterling B2B Integrator
     apiVersion: v2
     appVersion: 6.2.1.0
-    created: "2024-10-16T16:45:48.2994841+05:30"
+    created: "2024-10-17T18:44:57.695523374+05:30"
     dependencies:
     - alias: sch
       name: ibm-sch
@@ -99,7 +99,7 @@ entries:
       charts.openshift.io/name: IBM Sterling B2B Integrator
     apiVersion: v2
     appVersion: 6.1.2.6
-    created: "2024-10-16T16:45:48.262267912+05:30"
+    created: "2024-10-17T18:44:57.661558963+05:30"
     dependencies:
     - alias: sch
       name: ibm-sch
@@ -114,7 +114,7 @@ entries:
       while providing governance and visibility over those processes. Documentation
       For additional details regarding install parameters check https://www.ibm.com/docs/en/b2b-integrator/6.1.2?topic=integrator-installing-sterling-b2b-using-certified-container.
       License By installing this product you accept the license terms http://www14.software.ibm.com/cgi-bin/weblap/lap.pl?li_formnum=L-MZIA-CCSL2W&title=IBM%20Sterling%20B2B%20Integrator%20Certified%20Container%20V6.1.2"
-    digest: 32dc6bed6c6bd5df8069e1468dac5ead55955501e090b7afde6bc72461a68f83
+    digest: a66a31c3ed8b27a5c4054e57e93067ba0fa7fb6bccb3bdc96f8d942b500eeb1a
     home: https://www.ibm.com/docs/en/b2b-integrator/6.1.2
     icon: https://raw.githubusercontent.com/IBM/charts/master/logo/ibm-b2bi-icon.png
     keywords:
@@ -141,7 +141,7 @@ entries:
       charts.openshift.io/name: IBM Sterling B2B Integrator
     apiVersion: v2
     appVersion: 6.1.2.5_1
-    created: "2024-10-16T16:45:48.228678916+05:30"
+    created: "2024-10-17T18:44:57.634577828+05:30"
     dependencies:
     - alias: sch
       name: ibm-sch
@@ -184,7 +184,7 @@ entries:
       charts.openshift.io/name: IBM Sterling B2B Integrator
     apiVersion: v2
     appVersion: 6.2.0.3
-    created: "2024-10-16T16:45:48.474951389+05:30"
+    created: "2024-10-17T18:44:57.843010395+05:30"
     dependencies:
     - alias: sch
       name: ibm-sch
@@ -231,7 +231,7 @@ entries:
       charts.openshift.io/name: IBM Sterling B2B Integrator
     apiVersion: v2
     appVersion: 6.2.1.0
-    created: "2024-10-16T16:45:48.437105179+05:30"
+    created: "2024-10-17T18:44:57.812364751+05:30"
     dependencies:
     - alias: sch
       name: ibm-sch
@@ -278,7 +278,7 @@ entries:
       charts.openshift.io/name: IBM Sterling B2B Integrator
     apiVersion: v2
     appVersion: 6.1.2.6
-    created: "2024-10-16T16:45:48.399003224+05:30"
+    created: "2024-10-17T18:44:57.783103123+05:30"
     dependencies:
     - alias: sch
       name: ibm-sch
@@ -293,7 +293,7 @@ entries:
       while providing governance and visibility over those processes. Documentation
       For additional details regarding install parameters check https://www.ibm.com/docs/en/b2b-integrator/6.1.2?topic=integrator-installing-sterling-b2b-using-certified-container.
       License By installing this product you accept the license terms http://www14.software.ibm.com/cgi-bin/weblap/lap.pl?li_formnum=L-MZIA-CCSL2W&title=IBM%20Sterling%20B2B%20Integrator%20Certified%20Container%20V6.1.2"
-    digest: 44047839f0603969b168d494285d25bea8704865ddbecebdd9c20cd4b3fd7f44
+    digest: a491e2a0ac5bc6e13e05f0972f35e144e0aa7a3e93c843fcf3d5918893eb48a5
     home: https://www.ibm.com/docs/en/b2b-integrator/6.1.2
     icon: https://raw.githubusercontent.com/IBM/charts/master/logo/ibm-b2bi-icon.png
     keywords:
@@ -320,7 +320,7 @@ entries:
       charts.openshift.io/name: IBM Sterling B2B Integrator
     apiVersion: v2
     appVersion: 6.1.2.5_1
-    created: "2024-10-16T16:45:48.365735859+05:30"
+    created: "2024-10-17T18:44:57.752234735+05:30"
     dependencies:
     - alias: sch
       name: ibm-sch
@@ -358,4 +358,4 @@ entries:
     urls:
     - ibm-sfg-prod-2.1.7.tgz
     version: 2.1.7
-generated: "2024-10-16T16:45:48.190312857+05:30"
+generated: "2024-10-17T18:44:57.607271204+05:30"
