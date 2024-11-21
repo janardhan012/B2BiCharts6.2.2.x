@@ -5,7 +5,7 @@ entries:
       charts.openshift.io/name: IBM Sterling B2B Integrator
     apiVersion: v2
     appVersion: 6.2.1.0
-    created: "2024-11-21T21:57:39.696138299+05:30"
+    created: "2024-11-21T22:02:37.784995702+05:30"
     dependencies:
     - alias: sch
       name: ibm-sch
@@ -52,7 +52,7 @@ entries:
       charts.openshift.io/name: IBM Sterling B2B Integrator
     apiVersion: v2
     appVersion: 6.2.0.4
-    created: "2024-11-21T21:57:39.658188665+05:30"
+    created: "2024-11-21T22:02:37.74906376+05:30"
     dependencies:
     - alias: sch
       name: ibm-sch
@@ -62,7 +62,7 @@ entries:
       condition: documentService.enabled
       name: ibm-document-service-prod
       repository: ""
-      version: 1.0.5
+      version: 1.0.6
     description: IBM Sterling B2B Integrator helps companies integrate complex B2B
       EDI processes with their partner communities. Organizations get a single, flexible
       B2B platform that supports most communication protocols, helps secure your B2B
@@ -72,7 +72,7 @@ entries:
       while providing governance and visibility over those processes. Documentation
       For additional details regarding install parameters check https://www.ibm.com/docs/en/b2b-integrator/6.2.0?topic=integrator-installing-sterling-b2b-using-certified-container.
       License By installing this product you accept the license terms https://ibm.biz/B2Bi_62
-    digest: 748c1f0cfe141900ddb9896c603fa1281ee87670060d05437db1c74726180073
+    digest: 53a82f5196e20ce21429c57c1d3a43878323236d9b8f954796efb718eb51e9b4
     home: https://www.ibm.com/docs/en/b2b-integrator/6.2.0
     icon: https://raw.githubusercontent.com/IBM/charts/master/logo/ibm-b2bi-icon.png
     keywords:
@@ -99,7 +99,7 @@ entries:
       charts.openshift.io/name: IBM Sterling B2B Integrator
     apiVersion: v2
     appVersion: 6.1.2.6
-    created: "2024-11-21T21:57:39.618296315+05:30"
+    created: "2024-11-21T22:02:37.708643068+05:30"
     dependencies:
     - alias: sch
       name: ibm-sch
@@ -142,7 +142,7 @@ entries:
       charts.openshift.io/name: IBM Sterling B2B Integrator
     apiVersion: v2
     appVersion: 6.2.1.0
-    created: "2024-11-21T21:57:39.797267816+05:30"
+    created: "2024-11-21T22:02:37.897043099+05:30"
     dependencies:
     - alias: sch
       name: ibm-sch
@@ -189,7 +189,7 @@ entries:
       charts.openshift.io/name: IBM Sterling B2B Integrator
     apiVersion: v2
     appVersion: 6.2.0.4
-    created: "2024-11-21T21:57:39.761423439+05:30"
+    created: "2024-11-21T22:02:37.858221186+05:30"
     dependencies:
     - alias: sch
       name: ibm-sch
@@ -199,7 +199,7 @@ entries:
       condition: documentService.enabled
       name: ibm-document-service-prod
       repository: ""
-      version: 1.0.5
+      version: 1.0.6
     description: IBM Sterling B2B Integrator helps companies integrate complex B2B
       EDI processes with their partner communities. Organizations get a single, flexible
       B2B platform that supports most communication protocols, helps secure your B2B
@@ -209,7 +209,7 @@ entries:
       while providing governance and visibility over those processes. Documentation
       For additional details regarding install parameters check https://www.ibm.com/docs/en/b2b-integrator/6.2.0?topic=integrator-installing-sterling-b2b-using-certified-container.
       License By installing this product you accept the license terms https://ibm.biz/B2Bi_62
-    digest: 3b719973fff49a96b4a3a0422a46ade233c4228cfc7f0502538b85f96f6bce23
+    digest: 48837c83baf0a5ece62cf7df93538294fc6b781c9e569a812a06dd517a283b10
     home: https://www.ibm.com/docs/en/b2b-integrator/6.2.0
     icon: https://raw.githubusercontent.com/IBM/charts/master/logo/ibm-b2bi-icon.png
     keywords:
@@ -236,7 +236,7 @@ entries:
       charts.openshift.io/name: IBM Sterling B2B Integrator
     apiVersion: v2
     appVersion: 6.1.2.6
-    created: "2024-11-21T21:57:39.724725987+05:30"
+    created: "2024-11-21T22:02:37.816384478+05:30"
     dependencies:
     - alias: sch
       name: ibm-sch
@@ -274,4 +274,4 @@ entries:
     urls:
     - ibm-sfg-prod-2.1.8.tgz
     version: 2.1.8
-generated: "2024-11-21T21:57:39.586175701+05:30"
+generated: "2024-11-21T22:02:37.670631243+05:30"
