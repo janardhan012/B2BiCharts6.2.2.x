@@ -4,55 +4,8 @@ entries:
   - annotations:
       charts.openshift.io/name: IBM Sterling B2B Integrator
     apiVersion: v2
-    appVersion: 6.2.1.0
-    created: "2024-12-24T09:22:22.319889531+05:30"
-    dependencies:
-    - alias: sch
-      name: ibm-sch
-      repository: '@sch'
-      version: 1.2.19
-    - alias: documentService
-      condition: documentService.enabled
-      name: ibm-document-service-prod
-      repository: ""
-      version: 1.0.5
-    description: IBM Sterling B2B Integrator helps companies integrate complex B2B
-      EDI processes with their partner communities. Organizations get a single, flexible
-      B2B platform that supports most communication protocols, helps secure your B2B
-      network and data, and achieves high-availability operations. The offering enables
-      companies to reduce costs by consolidating EDI and non-EDI any-to-any transmissions
-      on a single B2B platform and helps automate B2B processes across enterprises,
-      while providing governance and visibility over those processes. Documentation
-      For additional details regarding install parameters check https://www.ibm.com/docs/en/b2b-integrator/6.2.0?topic=integrator-installing-sterling-b2b-using-certified-container.
-      License By installing this product you accept the license terms https://ibm.biz/B2Bi_62
-    digest: c24098a48e95d4f3fb2434c6f2070b7f55339a7d6735290edcf2addb10845468
-    home: https://www.ibm.com/docs/en/b2b-integrator/6.2.0
-    icon: https://raw.githubusercontent.com/IBM/charts/master/logo/ibm-b2bi-icon.png
-    keywords:
-    - b2bi
-    - b2b
-    - mft
-    - sterling
-    - Commercial
-    - amd64
-    - ppc64le
-    - s390x
-    - Automation
-    - RHOCP
-    - Other
-    kubeVersion: '>=1.27'
-    maintainers:
-    - name: IBM
-    name: ibm-b2bi-prod
-    type: application
-    urls:
-    - ibm-b2bi-prod-3.1.0.tgz
-    version: 3.1.0
-  - annotations:
-      charts.openshift.io/name: IBM Sterling B2B Integrator
-    apiVersion: v2
     appVersion: 6.2.0.4
-    created: "2024-12-24T09:22:22.283695817+05:30"
+    created: "2024-12-24T12:49:51.27697303+05:30"
     dependencies:
     - alias: sch
       name: ibm-sch
@@ -99,55 +52,8 @@ entries:
   - annotations:
       charts.openshift.io/name: IBM Sterling B2B Integrator
     apiVersion: v2
-    appVersion: 6.2.1.0
-    created: "2024-12-24T09:22:22.389728734+05:30"
-    dependencies:
-    - alias: sch
-      name: ibm-sch
-      repository: '@sch'
-      version: 1.2.19
-    - alias: documentService
-      condition: documentService.enabled
-      name: ibm-document-service-prod
-      repository: ""
-      version: 1.0.5
-    description: IBM Sterling B2B Integrator helps companies integrate complex B2B
-      EDI processes with their partner communities. Organizations get a single, flexible
-      B2B platform that supports most communication protocols, helps secure your B2B
-      network and data, and achieves high-availability operations. The offering enables
-      companies to reduce costs by consolidating EDI and non-EDI any-to-any transmissions
-      on a single B2B platform and helps automate B2B processes across enterprises,
-      while providing governance and visibility over those processes. Documentation
-      For additional details regarding install parameters check https://www.ibm.com/docs/en/b2b-integrator/6.2.0?topic=integrator-installing-sterling-b2b-using-certified-container.
-      License By installing this product you accept the license terms https://ibm.biz/B2Bi_62
-    digest: 0ba8735a9122462337f20c2dfa3c5fa5883dd63d9f6d1587359f143da5aeb87a
-    home: https://www.ibm.com/docs/en/b2b-integrator/6.2.0
-    icon: https://raw.githubusercontent.com/IBM/charts/master/logo/ibm-b2bi-icon.png
-    keywords:
-    - b2bi
-    - b2b
-    - mft
-    - sterling
-    - Commercial
-    - amd64
-    - ppc64le
-    - s390x
-    - Automation
-    - RHOCP
-    - Other
-    kubeVersion: '>=1.27'
-    maintainers:
-    - name: IBM
-    name: ibm-sfg-prod
-    type: application
-    urls:
-    - ibm-sfg-prod-3.1.0.tgz
-    version: 3.1.0
-  - annotations:
-      charts.openshift.io/name: IBM Sterling B2B Integrator
-    apiVersion: v2
     appVersion: 6.2.0.4
-    created: "2024-12-24T09:22:22.35659491+05:30"
+    created: "2024-12-24T12:49:51.309028597+05:30"
     dependencies:
     - alias: sch
       name: ibm-sch
@@ -190,4 +96,4 @@ entries:
     urls:
     - ibm-sfg-prod-3.0.6.tgz
     version: 3.0.6
-generated: "2024-12-24T09:22:22.24748757+05:30"
+generated: "2024-12-24T12:49:51.241490301+05:30"
