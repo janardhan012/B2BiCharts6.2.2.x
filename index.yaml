@@ -5,7 +5,7 @@ entries:
       charts.openshift.io/name: IBM Sterling B2B Integrator
     apiVersion: v2
     appVersion: 6.2.0.5
-    created: "2025-04-09T09:41:35.658560721+05:30"
+    created: "2025-04-10T11:14:10.726176175+05:30"
     dependencies:
     - alias: sch
       name: ibm-sch
@@ -25,7 +25,7 @@ entries:
       while providing governance and visibility over those processes. Documentation
       For additional details regarding install parameters check https://www.ibm.com/docs/en/b2b-integrator/6.2.0?topic=integrator-installing-sterling-b2b-using-certified-container.
       License By installing this product you accept the license terms https://ibm.biz/B2Bi_62
-    digest: 1e74f4ff1ba6d9aa9ad3a08d9e49f1f84c0e4fa6628735fa8ef4d9acf2bb47a9
+    digest: e5ee64cbdcac36dd3e635411f5acca22415453b78b2042f153c343ffa34bb84e
     home: https://www.ibm.com/docs/en/b2b-integrator/6.2.0
     icon: https://raw.githubusercontent.com/IBM/charts/master/logo/ibm-b2bi-icon.png
     keywords:
@@ -50,10 +50,10 @@ entries:
     version: 3.0.7
   ibm-sfg-prod:
   - annotations:
-      charts.openshift.io/name: IBM Sterling B2B Integrator
+      charts.openshift.io/name: IBM Sterling File Gateway
     apiVersion: v2
     appVersion: 6.2.0.5
-    created: "2025-04-09T09:41:35.694842276+05:30"
+    created: "2025-04-10T11:14:10.768600909+05:30"
     dependencies:
     - alias: sch
       name: ibm-sch
@@ -64,26 +64,24 @@ entries:
       name: ibm-document-service-prod
       repository: ""
       version: 1.0.7
-    description: IBM Sterling B2B Integrator helps companies integrate complex B2B
-      EDI processes with their partner communities. Organizations get a single, flexible
-      B2B platform that supports most communication protocols, helps secure your B2B
-      network and data, and achieves high-availability operations. The offering enables
-      companies to reduce costs by consolidating EDI and non-EDI any-to-any transmissions
-      on a single B2B platform and helps automate B2B processes across enterprises,
-      while providing governance and visibility over those processes. Documentation
-      For additional details regarding install parameters check https://www.ibm.com/docs/en/b2b-integrator/6.2.0?topic=integrator-installing-sterling-b2b-using-certified-container.
-      License By installing this product you accept the license terms https://ibm.biz/B2Bi_62
-    digest: af1596881fe3dbc0e7420b2862836eaada4ce371b6a574ffa78a38720f21b76f
-    home: https://www.ibm.com/docs/en/b2b-integrator/6.2.0
-    icon: https://raw.githubusercontent.com/IBM/charts/master/logo/ibm-b2bi-icon.png
+    description: IBM Sterling File Gateway lets organizations transfer files between
+      partners by using different protocols, conventions for naming files, and file
+      formats. A scalable and security-enabled gateway, Sterling File Gateway enables
+      companies to consolidate all their internet-based file transfers on a single
+      edge gateway, which helps secure your B2B collaboration network and the data
+      flowing through it. Documentation For additional details regarding install parameters
+      check https://www.ibm.com/support/knowledgecenter/en/SS3JSW_6.2.0/installing/installing/integrator/InstallingCertifiedContainer.html.
+      License By installing this product you accept the license terms https://ibm.biz/SFG_620
+    digest: 034811ab69179beae1fda75d318d44d68ed6f55c724d300d03502edc66a4d5f5
+    home: https://www.ibm.com/support/knowledgecenter/SS3JSW_6.2.0/kc_welcome_b2bi.html
+    icon: https://raw.githubusercontent.com/IBM/charts/master/logo/ibm-sfg-icon.png
     keywords:
-    - b2bi
+    - sfg
     - b2b
     - mft
     - sterling
     - Commercial
     - amd64
-    - ppc64le
     - s390x
     - Automation
     - RHOCP
@@ -96,4 +94,4 @@ entries:
     urls:
     - ibm-sfg-prod-3.0.7.tgz
     version: 3.0.7
-generated: "2025-04-09T09:41:35.618210908+05:30"
+generated: "2025-04-10T11:14:10.680393595+05:30"
