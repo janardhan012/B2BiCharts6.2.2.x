@@ -5,7 +5,7 @@ entries:
       charts.openshift.io/name: IBM Sterling B2B Integrator
     apiVersion: v2
     appVersion: 6.2.0.5
-    created: "2025-06-07T17:18:28.30886373+05:30"
+    created: "2025-06-08T16:48:19.229589885+05:30"
     dependencies:
     - alias: sch
       name: ibm-sch
@@ -25,7 +25,7 @@ entries:
       while providing governance and visibility over those processes. Documentation
       For additional details regarding install parameters check https://www.ibm.com/docs/en/b2b-integrator/6.2.0?topic=integrator-installing-sterling-b2b-using-certified-container.
       License By installing this product you accept the license terms https://ibm.biz/B2Bi_62
-    digest: fec2ec43440c5bc1e6570c347578ae0a90001e5533512bd19aef9d86898f9785
+    digest: c07413789ae36ab5a168be0a072dc7532b0035928cea895664e13e22393000d3
     home: https://www.ibm.com/docs/en/b2b-integrator/6.2.0
     icon: https://raw.githubusercontent.com/IBM/charts/master/logo/ibm-b2bi-icon.png
     keywords:
@@ -53,7 +53,7 @@ entries:
       charts.openshift.io/name: IBM Sterling File Gateway
     apiVersion: v2
     appVersion: 6.2.0.5
-    created: "2025-06-07T17:18:28.353152861+05:30"
+    created: "2025-06-08T16:48:19.27194984+05:30"
     dependencies:
     - alias: sch
       name: ibm-sch
@@ -72,7 +72,7 @@ entries:
       flowing through it. Documentation For additional details regarding install parameters
       check https://www.ibm.com/support/knowledgecenter/en/SS3JSW_6.2.0/installing/installing/integrator/InstallingCertifiedContainer.html.
       License By installing this product you accept the license terms https://ibm.biz/SFG_620
-    digest: 9d07954df0e5ad8a72b9d794dcbe315c5da370da0be526ae2c8c8470789f7a89
+    digest: 54cc62d1d689891a796919a30a19e6bd8eff784dec50b2ed5dd6616ab1d99459
     home: https://www.ibm.com/support/knowledgecenter/SS3JSW_6.2.0/kc_welcome_b2bi.html
     icon: https://raw.githubusercontent.com/IBM/charts/master/logo/ibm-sfg-icon.png
     keywords:
@@ -94,4 +94,4 @@ entries:
     urls:
     - ibm-sfg-prod-3.0.7.tgz
     version: 3.0.7
-generated: "2025-06-07T17:18:28.258877487+05:30"
+generated: "2025-06-08T16:48:19.188380796+05:30"
