@@ -5,7 +5,7 @@ entries:
       charts.openshift.io/name: IBM Sterling B2B Integrator
     apiVersion: v2
     appVersion: 6.2.0.5
-    created: "2025-06-14T17:13:15.329601012+05:30"
+    created: "2025-06-15T12:16:28.453115221+05:30"
     dependencies:
     - alias: sch
       name: ibm-sch
@@ -25,7 +25,7 @@ entries:
       while providing governance and visibility over those processes. Documentation
       For additional details regarding install parameters check https://www.ibm.com/docs/en/b2b-integrator/6.2.0?topic=integrator-installing-sterling-b2b-using-certified-container.
       License By installing this product you accept the license terms https://ibm.biz/B2Bi_62
-    digest: b83220f6a461bad0c6af35f09a7704e4cb76427025781d4b9f6800d0519b83b2
+    digest: 2e73795be9aa62a7e8bf98b06bc8dd51eea625c8157e2d265230d24d3870bd1d
     home: https://www.ibm.com/docs/en/b2b-integrator/6.2.0
     icon: https://raw.githubusercontent.com/IBM/charts/master/logo/ibm-b2bi-icon.png
     keywords:
@@ -53,7 +53,7 @@ entries:
       charts.openshift.io/name: IBM Sterling File Gateway
     apiVersion: v2
     appVersion: 6.2.0.5
-    created: "2025-06-14T17:13:15.364485811+05:30"
+    created: "2025-06-15T12:16:28.497870755+05:30"
     dependencies:
     - alias: sch
       name: ibm-sch
@@ -72,7 +72,7 @@ entries:
       flowing through it. Documentation For additional details regarding install parameters
       check https://www.ibm.com/support/knowledgecenter/en/SS3JSW_6.2.0/installing/installing/integrator/InstallingCertifiedContainer.html.
       License By installing this product you accept the license terms https://ibm.biz/SFG_620
-    digest: 9113609893b254c2b25c33d451de0c1a91da90eb3a8b185a9a71d3fcda6e54d2
+    digest: 43b5aeb68e0ca12493c6eb9e511206bb7b3a7d8cddd1a1ccdc21485307036c03
     home: https://www.ibm.com/support/knowledgecenter/SS3JSW_6.2.0/kc_welcome_b2bi.html
     icon: https://raw.githubusercontent.com/IBM/charts/master/logo/ibm-sfg-icon.png
     keywords:
@@ -94,4 +94,4 @@ entries:
     urls:
     - ibm-sfg-prod-3.0.7.tgz
     version: 3.0.7
-generated: "2025-06-14T17:13:15.293190178+05:30"
+generated: "2025-06-15T12:16:28.40689198+05:30"
