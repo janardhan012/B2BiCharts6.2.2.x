@@ -5,7 +5,7 @@ entries:
       charts.openshift.io/name: IBM Sterling B2B Integrator
     apiVersion: v2
     appVersion: 6.2.2.0
-    created: "2025-07-28T19:12:50.036951897+05:30"
+    created: "2025-08-01T06:47:16.202409341+05:30"
     dependencies:
     - alias: sch
       name: ibm-sch
@@ -31,7 +31,7 @@ entries:
       For additional details regarding install parameters check https://www.ibm.com/docs/en/b2b-integrator/6.2.2?topic=integrator-installing-sterling-b2b-using-certified-container.
       License By installing this product you accept the license terms https://ibm.biz/B2Bi_622_withRHO
       | https://ibm.biz/B2Bi_622_forRHO
-    digest: c169531be03cdfe1f70deec1a342acb92268239688350b0c6fbe46b924ad25b8
+    digest: f476e542cb1609c60afea0e3b452d29bfda73d4d95b5b6b45151cf4d824fd442
     home: https://www.ibm.com/docs/en/b2b-integrator/6.2.2
     icon: https://raw.githubusercontent.com/IBM/charts/master/logo/ibm-b2bi-icon.png
     keywords:
@@ -58,8 +58,8 @@ entries:
   - annotations:
       charts.openshift.io/name: IBM Sterling B2B Integrator
     apiVersion: v2
-    appVersion: 6.2.2.0
-    created: "2025-07-28T19:12:50.061801035+05:30"
+    appVersion: 3.2.0
+    created: "2025-08-01T06:47:16.228299322+05:30"
     dependencies:
     - alias: sch
       name: ibm-sch
@@ -85,7 +85,7 @@ entries:
       For additional details regarding install parameters check https://www.ibm.com/docs/en/b2b-integrator/6.2.2?topic=integrator-installing-sterling-b2b-using-certified-container.
       License By installing this product you accept the license terms https://ibm.biz/B2Bi_622_withRHO
       | https://ibm.biz/B2Bi_622_forRHO
-    digest: 9cecb7f1e41d92871eb4ce1a9a9d7ed4d3bcc4baa53f87c229745dc1adbd8bbf
+    digest: cc7f8ba7eb168f2dcb8533bdda862fc8c924ae36532acb61bc2b0eb42139e51a
     home: https://www.ibm.com/docs/en/b2b-integrator/6.2.2
     icon: https://raw.githubusercontent.com/IBM/charts/master/logo/ibm-b2bi-icon.png
     keywords:
@@ -108,4 +108,4 @@ entries:
     urls:
     - ibm-sfg-prod-3.2.0.tgz
     version: 3.2.0
-generated: "2025-07-28T19:12:50.009822995+05:30"
+generated: "2025-08-01T06:47:16.167662546+05:30"
