@@ -5,7 +5,7 @@ entries:
       charts.openshift.io/name: IBM Sterling B2B Integrator
     apiVersion: v2
     appVersion: 6.2.2.0
-    created: "2025-09-06T10:13:25.185668792+05:30"
+    created: "2025-09-07T09:56:00.565266313+05:30"
     dependencies:
     - alias: sch
       name: ibm-sch
@@ -31,7 +31,7 @@ entries:
       For additional details regarding install parameters check https://www.ibm.com/docs/en/b2b-integrator/6.2.2?topic=integrator-installing-sterling-b2b-using-certified-container.
       License By installing this product you accept the license terms https://ibm.biz/B2Bi_622_withRHO
       | https://ibm.biz/B2Bi_622_forRHO
-    digest: 0f8736e45bc8734c3594c9bdd6ca36e3938c9cbe84eea4f179d6f0df506629ab
+    digest: 7550052b70fe7308b5e6762f75441c386e7f5bfd097eaf80fd8378457f5bb071
     home: https://www.ibm.com/docs/en/b2b-integrator/6.2.2
     icon: https://raw.githubusercontent.com/IBM/charts/master/logo/ibm-b2bi-icon.png
     keywords:
@@ -59,7 +59,7 @@ entries:
       charts.openshift.io/name: IBM Sterling B2B Integrator
     apiVersion: v2
     appVersion: 3.2.0
-    created: "2025-09-06T10:13:25.221928474+05:30"
+    created: "2025-09-07T09:56:00.591694991+05:30"
     dependencies:
     - alias: sch
       name: ibm-sch
@@ -85,7 +85,7 @@ entries:
       For additional details regarding install parameters check https://www.ibm.com/docs/en/b2b-integrator/6.2.2?topic=integrator-installing-sterling-b2b-using-certified-container.
       License By installing this product you accept the license terms https://ibm.biz/B2Bi_622_withRHO
       | https://ibm.biz/B2Bi_622_forRHO
-    digest: 4a579c67f8c4b0ee100352bbb7e640324f572f602762f30dc1ced9e47ecca098
+    digest: 6b204c6ce38d2689ac088fc8d4037adf89e1b05a4558b9b4dccfd25bbe67a538
     home: https://www.ibm.com/docs/en/b2b-integrator/6.2.2
     icon: https://raw.githubusercontent.com/IBM/charts/master/logo/ibm-b2bi-icon.png
     keywords:
@@ -108,4 +108,4 @@ entries:
     urls:
     - ibm-sfg-prod-3.2.0.tgz
     version: 3.2.0
-generated: "2025-09-06T10:13:25.144396102+05:30"
+generated: "2025-09-07T09:56:00.532033232+05:30"
