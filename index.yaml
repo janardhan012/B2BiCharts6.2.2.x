@@ -5,7 +5,7 @@ entries:
       charts.openshift.io/name: IBM Sterling B2B Integrator
     apiVersion: v2
     appVersion: 6.2.2.0
-    created: "2025-09-11T10:10:57.998751329+05:30"
+    created: "2025-09-24T09:11:04.192549453+05:30"
     dependencies:
     - alias: sch
       name: ibm-sch
@@ -15,10 +15,15 @@ entries:
       condition: documentService.enabled
       name: ibm-document-service-prod
       repository: ""
-      version: 1.1.0
+      version: 1.2.0
     - alias: as4Service
       condition: as4Service.enabled
       name: ibm-as4service-prod
+      repository: ""
+      version: 1.2.0
+    - alias: identityService
+      condition: identityService.enabled
+      name: ibm-identity-service-prod
       repository: ""
       version: 1.0.0
     description: IBM Sterling B2B Integrator helps companies integrate complex B2B
@@ -31,7 +36,7 @@ entries:
       For additional details regarding install parameters check https://www.ibm.com/docs/en/b2b-integrator/6.2.2?topic=integrator-installing-sterling-b2b-using-certified-container.
       License By installing this product you accept the license terms https://ibm.biz/B2Bi_622_withRHO
       | https://ibm.biz/B2Bi_622_forRHO
-    digest: 5bf0506286dcb625cdc2bf40b6f82e4226645ce9299b6a2943047f38a7200021
+    digest: adad3e105a72d0506615986fc1ec4feea5a72fcbafe89b46bb18f7062b117add
     home: https://www.ibm.com/docs/en/b2b-integrator/6.2.2
     icon: https://raw.githubusercontent.com/IBM/charts/master/logo/ibm-b2bi-icon.png
     keywords:
@@ -46,7 +51,7 @@ entries:
     - Automation
     - RHOCP
     - Other
-    kubeVersion: '>=1.28'
+    kubeVersion: '>=1.29'
     maintainers:
     - name: IBM
     name: ibm-b2bi-prod
@@ -56,10 +61,10 @@ entries:
     version: 3.2.0
   ibm-sfg-prod:
   - annotations:
-      charts.openshift.io/name: IBM Sterling B2B Integrator
+      charts.openshift.io/name: IBM Sterling File Gateway
     apiVersion: v2
     appVersion: 3.2.0
-    created: "2025-09-11T10:10:58.028161585+05:30"
+    created: "2025-09-24T09:11:04.237194665+05:30"
     dependencies:
     - alias: sch
       name: ibm-sch
@@ -69,38 +74,36 @@ entries:
       condition: documentService.enabled
       name: ibm-document-service-prod
       repository: ""
-      version: 1.1.0
+      version: 1.2.0
     - alias: as4Service
       condition: as4Service.enabled
       name: ibm-as4service-prod
       repository: ""
-      version: 1.0.0
-    description: IBM Sterling B2B Integrator helps companies integrate complex B2B
-      EDI processes with their partner communities. Organizations get a single, flexible
-      B2B platform that supports most communication protocols, helps secure your B2B
-      network and data, and achieves high-availability operations. The offering enables
-      companies to reduce costs by consolidating EDI and non-EDI any-to-any transmissions
-      on a single B2B platform and helps automate B2B processes across enterprises,
-      while providing governance and visibility over those processes. Documentation
-      For additional details regarding install parameters check https://www.ibm.com/docs/en/b2b-integrator/6.2.2?topic=integrator-installing-sterling-b2b-using-certified-container.
-      License By installing this product you accept the license terms https://ibm.biz/B2Bi_622_withRHO
-      | https://ibm.biz/B2Bi_622_forRHO
-    digest: 97f4470cda50a67eb0873b263df4e11b2977b3e95d2a71f609eba91b8811c5e6
-    home: https://www.ibm.com/docs/en/b2b-integrator/6.2.2
-    icon: https://raw.githubusercontent.com/IBM/charts/master/logo/ibm-b2bi-icon.png
+      version: 1.2.0
+    description: IBM Sterling File Gateway lets organizations transfer files between
+      partners by using different protocols, conventions for naming files, and file
+      formats. A scalable and security-enabled gateway, Sterling File Gateway enables
+      companies to consolidate all their internet-based file transfers on a single
+      edge gateway, which helps secure your B2B collaboration network and the data
+      flowing through it. Documentation For additional details regarding install parameters
+      check https://www.ibm.com/support/knowledgecenter/en/SS3JSW_6.2.2/installing/installing/integrator/InstallingCertifiedContainer.html.
+      License By installing this product you accept the license terms https://ibm.biz/SFG_622_withRHO
+      | https://ibm.biz/SFG_622_forRHO
+    digest: 0e661353ddb296d1e71019bbfd7a3fa35692b2d331b9955bb05fb5b8c355bfb5
+    home: https://www.ibm.com/support/knowledgecenter/SS3JSW_6.2.2/kc_welcome_b2bi.html
+    icon: https://raw.githubusercontent.com/IBM/charts/master/logo/ibm-sfg-icon.png
     keywords:
-    - b2bi
+    - sfg
     - b2b
     - mft
     - sterling
     - Commercial
     - amd64
-    - ppc64le
     - s390x
     - Automation
     - RHOCP
     - Other
-    kubeVersion: '>=1.28'
+    kubeVersion: '>=1.29'
     maintainers:
     - name: IBM
     name: ibm-sfg-prod
@@ -108,4 +111,4 @@ entries:
     urls:
     - ibm-sfg-prod-3.2.0.tgz
     version: 3.2.0
-generated: "2025-09-11T10:10:57.967968286+05:30"
+generated: "2025-09-24T09:11:04.155300975+05:30"
