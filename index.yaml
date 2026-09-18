@@ -5,7 +5,7 @@ entries:
       charts.openshift.io/name: IBM Sterling B2B Integrator
     apiVersion: v2
     appVersion: 6.2.2.2
-    created: "2026-09-17T11:03:34.565720743-04:00"
+    created: "2026-09-18T12:18:59.691919159-04:00"
     dependencies:
     - alias: sch
       name: ibm-sch
@@ -36,7 +36,7 @@ entries:
       For additional details regarding install parameters check https://www.ibm.com/docs/en/b2b-integrator/6.2.2?topic=integrator-installing-sterling-b2b-using-certified-container.
       License By installing this product you accept the license terms https://ibm.biz/B2Bi_622_withRHO
       | https://ibm.biz/B2Bi_622_forRHO
-    digest: 5988f4c7b57999df23ebc2d5a4ed6ba4c52b46dafb386a8437df9617b977a509
+    digest: 9b20bd056c4124db032179eb0acc0927b2957ac451b88efc7d7bee71129fd64e
     home: https://www.ibm.com/docs/en/b2b-integrator/6.2.2
     icon: https://raw.githubusercontent.com/IBM/charts/master/logo/ibm-b2bi-icon.png
     keywords:
@@ -51,7 +51,7 @@ entries:
     - Automation
     - RHOCP
     - Other
-    kubeVersion: '>=1.29'
+    kubeVersion: '>=1.30'
     maintainers:
     - name: IBM
     name: ibm-b2bi-prod
@@ -64,7 +64,7 @@ entries:
       charts.openshift.io/name: IBM Sterling File Gateway
     apiVersion: v2
     appVersion: 6.2.2.2
-    created: "2026-09-17T11:03:34.609114636-04:00"
+    created: "2026-09-18T12:18:59.724394597-04:00"
     dependencies:
     - alias: sch
       name: ibm-sch
@@ -94,7 +94,7 @@ entries:
       check https://www.ibm.com/support/knowledgecenter/en/SS3JSW_6.2.2/installing/installing/integrator/InstallingCertifiedContainer.html.
       License By installing this product you accept the license terms https://ibm.biz/SFG_622_withRHO
       | https://ibm.biz/SFG_622_forRHO
-    digest: 5baad592f8ea9ca29cf0d7ccad35bde732af890e05482c8e98eb28be2b06ca15
+    digest: 290acfe9e9764fbf31ae65f8f2a98faecf70dfe80b06d7400198b6a953e89406
     home: https://www.ibm.com/support/knowledgecenter/SS3JSW_6.2.2/kc_welcome_b2bi.html
     icon: https://raw.githubusercontent.com/IBM/charts/master/logo/ibm-sfg-icon.png
     keywords:
@@ -109,7 +109,7 @@ entries:
     - Automation
     - RHOCP
     - Other
-    kubeVersion: '>=1.29'
+    kubeVersion: '>=1.30'
     maintainers:
     - name: IBM
     name: ibm-sfg-prod
@@ -117,4 +117,4 @@ entries:
     urls:
     - ibm-sfg-prod-3.2.4.tgz
     version: 3.2.4
-generated: "2026-09-17T11:03:34.525505883-04:00"
+generated: "2026-09-18T12:18:59.654336931-04:00"
