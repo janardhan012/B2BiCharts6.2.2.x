@@ -5,7 +5,7 @@ entries:
       charts.openshift.io/name: IBM Sterling B2B Integrator
     apiVersion: v2
     appVersion: 6.2.2.2_1
-    created: "2026-10-29T13:28:13.553457462-04:00"
+    created: "2026-10-30T01:18:31.405401128-04:00"
     dependencies:
     - alias: sch
       name: ibm-sch
@@ -36,7 +36,7 @@ entries:
       For additional details regarding install parameters check https://www.ibm.com/docs/en/b2b-integrator/6.2.2?topic=integrator-installing-sterling-b2b-using-certified-container.
       License By installing this product you accept the license terms https://ibm.biz/B2Bi_622_withRHO
       | https://ibm.biz/B2Bi_622_forRHO
-    digest: 17e84379c18dc02c8b678bed2d215934216a6fdb96341640d5e8384e6187de54
+    digest: 4293904883ea08a87a8a010bef90798fb9b25ab4e0090ad0e3b27ca5899d5b79
     home: https://www.ibm.com/docs/en/b2b-integrator/6.2.2
     icon: https://raw.githubusercontent.com/IBM/charts/master/logo/ibm-b2bi-icon.png
     keywords:
@@ -64,7 +64,7 @@ entries:
       charts.openshift.io/name: IBM Sterling File Gateway
     apiVersion: v2
     appVersion: 6.2.2.2_1
-    created: "2026-10-29T13:28:13.569614234-04:00"
+    created: "2026-10-30T01:18:31.437658375-04:00"
     dependencies:
     - alias: sch
       name: ibm-sch
@@ -94,7 +94,7 @@ entries:
       check https://www.ibm.com/support/knowledgecenter/en/SS3JSW_6.2.2/installing/installing/integrator/InstallingCertifiedContainer.html.
       License By installing this product you accept the license terms https://ibm.biz/SFG_622_withRHO
       | https://ibm.biz/SFG_622_forRHO
-    digest: 2e769be4da1d409dbe74bd33550fc2180bc77e70abb3397b3ea5495b840ba6c8
+    digest: 9840598bb4dade85f091c367d80baa997cd0fe3b4197261982a16f1d01db07ef
     home: https://www.ibm.com/support/knowledgecenter/SS3JSW_6.2.2/kc_welcome_b2bi.html
     icon: https://raw.githubusercontent.com/IBM/charts/master/logo/ibm-sfg-icon.png
     keywords:
@@ -117,4 +117,4 @@ entries:
     urls:
     - ibm-sfg-prod-3.2.5.tgz
     version: 3.2.5
-generated: "2026-10-29T13:28:13.519577467-04:00"
+generated: "2026-10-30T01:18:31.385888558-04:00"
